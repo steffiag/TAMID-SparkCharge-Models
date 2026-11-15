@@ -1,0 +1,31 @@
+scenario,partner,year,evs,sessions,units,revenue,cost,profit
+Low,Northeastern University,2027,40.0,720.0,1,18000.0,27360.0,-9360.0
+Low,Northeastern University,2028,42.0,756.0,1,18900.0,28941.12,-10041.12
+Low,Northeastern University,2029,44.1,793.8,1,19845.0,30630.26,-10785.26
+Low,Northeastern University,2030,46.3,833.5,1,20837.25,32435.87,-11598.62
+Low,Northeastern University,2031,48.6,875.2,1,21879.11,34367.1,-12487.98
+Low,Avalon North Station,2027,25.0,300.0,1,7500.0,16500.0,-9000.0
+Low,Avalon North Station,2028,26.2,315.0,1,7875.0,17394.0,-9519.0
+Low,Avalon North Station,2029,27.6,330.8,1,8268.75,18345.29,-10076.54
+Low,Avalon North Station,2030,28.9,347.3,1,8682.19,19358.14,-10675.95
+Low,Avalon North Station,2031,30.4,364.7,1,9116.3,20437.17,-11320.87
+Medium,Northeastern University,2027,100.0,1800.0,1,45000.0,41400.0,3600.0
+Medium,Northeastern University,2028,115.0,2132.1,1,54368.55,47088.82,7279.73
+Medium,Northeastern University,2029,132.2,2525.5,1,65687.54,53926.76,11760.78
+Medium,Northeastern University,2030,152.1,2991.4,1,79363.03,62163.59,17199.44
+Medium,Northeastern University,2031,174.9,3543.3,2,95885.62,92363.09,3522.52
+Medium,Avalon North Station,2027,50.0,600.0,1,15000.0,21000.0,-6000.0
+Medium,Avalon North Station,2028,57.5,710.7,1,18122.85,23340.32,-5217.47
+Medium,Avalon North Station,2029,66.1,841.8,1,21895.85,26127.17,-4231.32
+Medium,Avalon North Station,2030,76.0,997.1,1,26454.34,29456.76,-3002.42
+Medium,Avalon North Station,2031,87.5,1181.1,1,31961.87,33446.4,-1484.53
+High,Northeastern University,2027,160.0,2880.0,1,72000.0,55440.0,16560.0
+High,Northeastern University,2028,208.0,3931.2,2,101228.4,89283.24,11945.16
+High,Northeastern University,2029,270.4,5366.1,2,142322.07,111113.2,31208.87
+High,Northeastern University,2030,351.5,7324.7,3,200097.71,160694.95,39402.77
+High,Northeastern University,2031,457.0,9998.2,4,281327.38,222944.8,58382.58
+High,Avalon North Station,2027,100.0,1200.0,1,30000.0,30000.0,0.0
+High,Avalon North Station,2028,130.0,1638.0,1,42178.5,37484.25,4694.25
+High,Avalon North Station,2029,169.0,2235.9,1,59300.86,47843.41,11457.45
+High,Avalon North Station,2030,219.7,3052.0,2,83374.05,75144.82,8229.22
+High,Avalon North Station,2031,285.6,4165.9,2,117219.74,95467.6,21752.14
